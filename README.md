@@ -16,3 +16,11 @@ section of FreeCodeCamp:
   annual income and credit score
 - convertCtoF — converts Celsius to Fahrenheit
 Added: May 29, 2026
+### calculator.js
+A command-line calculator with four arithmetic operations:
+- calculateSum — adds two numbers
+- calculateDifference — subtracts two numbers
+- calculateProduct — multiplies two numbers
+- calculateQuotient — divides two numbers with division by zero protection
+
+Added: June 29, 2026
