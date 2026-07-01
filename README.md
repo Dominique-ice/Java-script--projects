@@ -2,7 +2,7 @@
 
 CS student at UNN documenting my journey from JavaScript fundamentals to backend development while building the foundation for a career in cybersecurity.
 
-Every project in this repository documents a new concept or skill I've learned as I grow as a developer.
+Every project in this repository documents a new concept or skill I've learned as I grow as a developer.Built entirely from my oppoA15s 📱.
 
 Follow my progress on X:
 https://x.com/Dominique_ice
