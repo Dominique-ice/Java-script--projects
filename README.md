@@ -1,9 +1,10 @@
-# JavaScript Learning Journey — Samuel
+JavaScript Learning JourneyCS student at UNN documenting my journey from JavaScript fundamentals to backend development while building the foundation for a career in cybersecurity.
 
-CS student at UNN documenting my backend development 
-journey from JavaScript basics to building real backend 
-APIs. Building entirely from my phone 📱
-Follow my progress on X https://x.com/Dominique_ice
+Every project in this repository represents something new I've learned. Built entirely from my phone 📱.
+
+Follow my progress on X:
+https://x.com/Dominique_ice
+
 
 ## Projects
 
@@ -24,3 +25,16 @@ A command-line calculator with four arithmetic operations:
 - calculateQuotient — divides two numbers with division by zero protection
 
 Added: June 29, 2026
+## blackjack-card-counter.js
+
+A Blackjack card counter built as part of FreeCodeCamp's JavaScript Algorithms and Data Structures course.
+
+### Concepts practiced
+
+- switch statements
+- fall-through cases
+- conditional logic
+- functions
+- variables
+
+Added: July 1, 2026
