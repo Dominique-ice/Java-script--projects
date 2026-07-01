@@ -1,6 +1,8 @@
-JavaScript Learning JourneyCS student at UNN documenting my journey from JavaScript fundamentals to backend development while building the foundation for a career in cybersecurity.
+# JavaScript Learning Journey
 
-Every project in this repository represents something new I've learned. Built entirely from my phone 📱.
+CS student at UNN documenting my journey from JavaScript fundamentals to backend development while building the foundation for a career in cybersecurity.
+
+Every project in this repository documents a new concept or skill I've learned as I grow as a developer.
 
 Follow my progress on X:
 https://x.com/Dominique_ice
