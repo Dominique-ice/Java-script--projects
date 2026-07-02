@@ -40,3 +40,21 @@ A Blackjack card counter built as part of FreeCodeCamp's JavaScript Algorithms a
 - variables
 
 Added: July 1, 2026
+
+
+## nested-conditionals-lab.js
+
+Three JavaScript functions built during the Functions section of FreeCodeCamp, focused on nested if/else logic:
+
+- isLeapYear — checks if a year is a leap year using nested conditionals
+- truncateString — shortens a string to a given length and appends "..."
+- confirmEnding — checks if a string ends with a given target string without using .endsWith()
+
+### Concepts practiced
+- Nested if/else statements
+- Modulus operator (%)
+- String slicing (.slice())
+- Boolean return values
+- Template literals
+
+Added: July 2, 2026
