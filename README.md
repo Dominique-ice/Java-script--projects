@@ -58,3 +58,23 @@ Three JavaScript functions built during the Functions section of FreeCodeCamp, f
 - Template literals
 
 Added: July 2, 2026
+
+
+## lunch-picker.js
+
+Six JavaScript functions built during the Arrays section of FreeCodeCamp, focused on array manipulation:
+
+- addLunchToEnd — adds an item to the end of an array
+- addLunchToStart — adds an item to the start of an array
+- removeLastLunch — removes and returns the last item, with empty-array handling
+- removeFirstLunch — removes and returns the first item, with empty-array handling
+- getRandomLunch — selects and logs a random item from the array
+- showLunchMenu — displays all items in the array as a readable list
+
+### Concepts practiced
+- Array methods: push, pop, shift, unshift, join
+- Random selection with Math.random() and Math.floor()
+- Empty-array conditional handling
+- Functions with side effects and return values
+
+Added: July 3, 2026
