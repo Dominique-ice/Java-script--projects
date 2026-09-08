@@ -96,3 +96,19 @@ Four JavaScript functions built during the Loops section of FreeCodeCamp, focuse
 - Edge case handling (empty strings, whitespace-only input)
 
 Added: September 7, 2026
+
+
+## wordCounter.js
+
+Two JavaScript functions built during the Loops section of FreeCodeCamp, introducing for...of loops:
+
+- printCharacters — logs each character of a string using a for...of loop
+- getMatchedWordCount — counts how many times a target word appears in an array of words
+
+**Concepts practiced**
+- for...of loops over strings and arrays
+- Loop-scoped variables vs persistent counters
+- Correct placement of return statements relative to loop scope
+- Template literals for debugging output
+
+Added: September 2, 2026
