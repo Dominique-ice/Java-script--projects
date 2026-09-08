@@ -78,3 +78,21 @@ Six JavaScript functions built during the Arrays section of FreeCodeCamp, focuse
 - Functions with side effects and return values
 
 Added: July 3, 2026
+
+## sentenceAnalyzer.js
+
+Four JavaScript functions built during the Loops section of FreeCodeCamp, focused on analyzing text character by character:
+
+- getVowelCount — counts vowels in a sentence, case-insensitive
+- getConsonantCount — counts consonants, excluding vowels and spaces
+- getPunctuationCount — counts punctuation marks using regex to exclude letters and spaces
+- getWordCount — splits sentence into words, handles empty and space-only string edge cases
+
+**Concepts practiced**
+- for...of loops over strings
+- Array/string .includes() for membership checks
+- Regex pattern matching (/[a-z]/i.test())
+- .split() and .filter() for word counting
+- Edge case handling (empty strings, whitespace-only input)
+
+Added: September 7, 2026
