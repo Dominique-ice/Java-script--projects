@@ -128,3 +128,23 @@ Two JavaScript functions built during the Loops section of FreeCodeCamp, focused
 - Template literals for formatted logging
 
 Added: September 25, 2026
+
+### missionControlRoster.js
+
+Six JavaScript functions built during the Loops section of FreeCodeCamp, focused on managing a crew roster:
+
+- addCrewMember — checks for duplicate IDs before pushing a new member
+- swapCrewMembers — swaps two members' positions without mutating the original array
+- sortByPriorityDescending — sorts a crew array by priority using bubble sort
+- getEVAReadyCrew — filters EVA-eligible members and returns them sorted by priority
+- chunkCrew — splits a crew array into fixed-size chunks using .slice()
+- printCrewSummary — logs crew names sorted by priority, without mutating the original array
+
+### Concepts practiced
+
+- Mutation vs. cloning (.slice()/.splice())
+- Bubble sort implementation
+- Filter + sort pipelines
+- Array chunking
+
+Added: September 25, 2026
