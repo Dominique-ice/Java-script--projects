@@ -112,3 +112,19 @@ Two JavaScript functions built during the Loops section of FreeCodeCamp, introdu
 - Template literals for debugging output
 
 Added: September 2, 2026
+
+### trafficLightSequencer.js
+
+Two JavaScript functions built during the Loops section of FreeCodeCamp, focused on simulating configurable traffic light cycles:
+
+- runSequence — logs phase transitions across cycles, with fault detection and invalid-duration handling
+- generateTimeline — computes cumulative elapsed time across cycles, ignoring all validation
+
+### Concepts practiced
+
+- Nested for and for...of loops
+- Early returns to halt execution (return vs break)
+- Object/array property validation
+- Template literals for formatted logging
+
+Added: September 25, 2026
